@@ -1,1 +1,6 @@
-Esse é um Projeto bem básico feito em JavaScript caso tenham algo a melhorar fiquem a vontade
+#Fogo Doom;
+
+Qualquer alteração que quiserem fazer esta permitida,
+fique a vontade!;
+
+By: Guilherme Felipe
